@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pliniisecundiqu00plingoog_0136.png"; bbox 0 0 2416 3802; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 102 1272 982 1618">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 102 1272 982 1618">
+     <span class='ocr_line' id='line_1_1' title="bbox 102 1272 982 1374; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 102 1275 490 1374; x_wconf 81' lang='lat' dir='ltr'><strong>GARGILII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 539 1272 982 1372; x_wconf 81' lang='lat' dir='ltr'>MARTIALIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 361 1533 721 1618; baseline 0.003 -1"><span class='ocrx_word' id='word_1_3' title='bbox 361 1533 721 1618; x_wconf 81' lang='lat' dir='ltr'><strong>MEDIOINAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 285 1817 803 1882">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 285 1817 803 1882">
+     <span class='ocr_line' id='line_1_3' title="bbox 285 1817 803 1882; baseline -0.006 -2"><span class='ocrx_word' id='word_1_4' title='bbox 285 1820 340 1880; x_wconf 73' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_5' title='bbox 368 1819 564 1882; x_wconf 78' lang='lat' dir='ltr'>OLERIBUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 592 1820 644 1878; x_wconf 84' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 673 1817 803 1880; x_wconf 84' lang='lat' dir='ltr'>POMIS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 492 2120 597 2127">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 492 2120 597 2127">
+     <span class='ocr_line' id='line_1_4' title="bbox 492 2120 597 2127; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 492 2120 597 2127; x_wconf 79' lang='lat'>---</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1212 3802">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1212 3802">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1212 3802; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1212 3802; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
